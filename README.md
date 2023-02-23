@@ -225,7 +225,7 @@ Introduces breaking changes
 ## TODO :
 
 * Add audio file handler in streams. PR's are welcome.
-* Remove librosa requirement to encourage generating reference files directly in edge devices
+* Remove librosa requirement to encourage generating reference files directly in edge devices (IN PROGRESS)
 * Add more detailed documentation explaining slider window concept
 
 ## SUPPORT US:
